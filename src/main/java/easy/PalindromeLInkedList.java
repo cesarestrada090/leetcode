@@ -23,7 +23,7 @@ public class PalindromeLInkedList {
     }
 
     public boolean isPalindrome(ListNode head) {
-        
+        return false;
     }
 
     private ListNode getMid(ListNode head){
